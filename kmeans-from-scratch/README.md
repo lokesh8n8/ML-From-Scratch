@@ -7,7 +7,7 @@
 ### 1️⃣ Clone the repository  
 ```bash
 git clone https://github.com/yourusername/ml-from-scratch.git
-cd ml-from-scratch
+cd ml-from-scratch/kmeans-from-scratch
 ```
 
 ### 2️⃣ Install dependencies  
